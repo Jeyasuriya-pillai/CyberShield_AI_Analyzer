@@ -192,9 +192,10 @@ Use this fictional message to test the message analyzer.
 
 | Information | Details |
 |---|---|
-| Developer | Jeyasuriya |
+| Developer | Jeyasuriya Thangapandi |
 | Course | B.Sc. Information Technology |
 | Project | CyberShield — AI Security Analyzer |
 | Deployment | Streamlit Community Cloud |
 
 ---
+
